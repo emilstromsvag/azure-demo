@@ -30,7 +30,7 @@ Velg "Review + create", deretter "Create" og vent et par strakser.
 ## 🤩 4 - Nyt den nye webappen din!
 1. Trykk på "Go to resource"
 2. I "Overview"-tabben, trykk på lenken under "Default domain". Den skal ha navnet du satte på webappen din + ".azurewebsites.net"
-3. Trykk på denne og se at appen din we oppe og kjører i skyen!
+3. Trykk på denne og se at appen din er oppe og kjører i skyen!
 
 ## ⚙️ 5 - Sett opp deployment med GitHub Actions
 
