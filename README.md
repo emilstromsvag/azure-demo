@@ -55,3 +55,6 @@ Velg "Review + create", deretter "Create" og vent et par strakser.
 
 ## Bonus
 Endre det du ønsker i filen templates/index.html, push det opp til GitHub og se om nettsiden din oppdateres!
+
+## 🥺 Avslutning
+Husk å slette resursene og resursgruppen du lagde når du er ferdig. Da slipper vi å betale for noe vi ikke bruker 💸
