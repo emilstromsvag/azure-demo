@@ -6,10 +6,12 @@
 Du finner eksempelkoden [her](https://GitHub.com/emilstromsvag/azure-demo). 
 Trykk "Use this template" og klon det til din egen profil.
 
-## 🔑 2 Opprett subscription i Azure
+## 🔑 2 - Opprett subscription i Azure
+Dette steget er om du ikke har tilgang til en eksisterende subscription eller bare vil teste noe. 
 1. Gå til [Subscription](https://portal.azure.com/#view/Microsoft_Azure_Billing/SubscriptionsBladeV2) på azure portalen
 2. Trykk på ADD
-3. Velg free trial
+3. Velg free trial og registrer deg her
+   
 
 ## ☁️ 3 - Lag en resurs i Azure
 1. Gå til [Azureportalen](https://portal.azure.com/#home)
